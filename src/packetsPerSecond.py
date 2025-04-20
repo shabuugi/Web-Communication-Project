@@ -1,3 +1,6 @@
+# this code will provide an histogram that shows the differences between all the services by the average number of packets per second
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
